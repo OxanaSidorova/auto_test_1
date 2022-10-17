@@ -5,4 +5,4 @@ const sayHelloLinting = (fName) => {
 sayHelloLinting("Oksana");
 x=y+25
 "test test third test again test text text"
-"new test17"
+"new test"
